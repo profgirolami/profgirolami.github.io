@@ -5,36 +5,28 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: engine.jpg
+  overlay_image: unsplash-image-3.jpg
 excerpt: "blah"
 intro: 
   - excerpt: 'SPF projects below.'
-feature_row:
-  - image_path: bayes.jpg
-    image_caption: "Bayesian"
-    alt: "Aerobayes"
-    title: "Bayesian spatial models from engine sensor measurements"
-    excerpt: "Understanding aeroengine aerothermodynamics by generating spatial fields of temperature and pressure based on sensor measurements."
-    btn_label: "Learn more"
-    btn_class: "btn--primary"
-    url: "/bayesian-spatial-models-from-engine-sensor-measurements.html"
-  - image_path: dr.jpg
-    alt: "Subspace-based dimension reduction"
-    title: "Dimension reduction in blade aerodynamics"
-    excerpt: "Finding lower-dimensional representations of high-dimensional design spaces for the aerodynamic design and manufacturing of aeroengine blades."
-    url: "/dimension-reduction-in-blade-aerodynamics.html"
-    btn_label: "Read more"
-    btn_class: "btn--primary"
-  - image_path: polynomials.jpg
-    title: "Polynomial approximations for machine learning"
-    excerpt: "Leveraging polynomial approximations via least squares, compressive sensing and numerical integration rules for learning."
-    btn_label: "Explore project"
-    btn_class: "btn--primary"
-    url: https://www.effective-quadratures.org
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/images/unsplash-gallery-image-4.jpg
+    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
 ---
-
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
+{% raw %}{% include gallery caption="This is a sample gallery with **Markdown support**." %}{% endraw %}
 
 {% include paginator.html %}

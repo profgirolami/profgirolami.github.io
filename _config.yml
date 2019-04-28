@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Pranay Seshadri"
+title                    : "Professor"
 title_separator          : ": "
-name                     : "Pranay Seshadri"
-description              : "The personal website of Pranay Seshadri."
+name                     : "SPF"
+description              : "Description"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
