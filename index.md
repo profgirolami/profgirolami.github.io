@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.3"
   overlay_image: unsplash-image-3.jpg
 excerpt: "blah"
-gallery1:
+gallery:
   - url: unsplash-gallery-image-1.jpg
     image_path: unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -27,6 +27,6 @@ gallery1:
 ---
 Some text.
 
-{% include gallery1 caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 {% include paginator.html %}
