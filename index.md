@@ -27,6 +27,6 @@ gallery:
     alt: "placeholder image 4"
     title: "Image 4 title caption"
 ---
-{% raw %}{% include gallery caption="This is a sample gallery with **Markdown support**." %}{% endraw %}
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 {% include paginator.html %}
