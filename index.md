@@ -5,7 +5,7 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: unsplash-image-3.jpg
+  overlay_image: main.jpg
 excerpt: "blah"
 feature_row:
   - image_path: math.jpg
@@ -67,6 +67,7 @@ Text goes here.
 
 {% include feature_row %}
 ## PIs
+# Mark Girolami.
 <center>
   <figure class="one">
     <a href="/images/mark.jpg"><img src="/images/mark.jpg"></a>
