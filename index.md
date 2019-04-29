@@ -8,36 +8,36 @@ header:
   overlay_image: unsplash-image-3.jpg
 excerpt: "blah"
 feature_row:
-  - image_path: bayes.jpg
+  - image_path: math.jpg
     image_caption: "Bayesian"
     alt: "Aerobayes"
     title: "Theoretical foundations of digital twins for complex engineering systems"
-    excerpt: "Understanding aeroengine aerothermodynamics by generating spatial fields of temperature and pressure based on sensor measurements."
+    excerpt: "The SPF theme on Digital Twins for Complex Engineering systems comprises sub-themes focusing on digital twins for civil engineering, the energy and aerospace sectors. Despite the diversity of application areas, there are common challenges faced by each which fall within the remit of: computational statistics and uncertainty quantification, the analysis and approximation of partial differential equations (PDEs), AI and machine learning. These challenges relate to the fundamental question of how to systematically combine data with physics-based models in the creation of digital twins, and how then to correctly incorporate digital twins within a risk-stratified decision-making pipeline."
     btn_label: "Learn more"
     btn_class: "btn--primary"
     url: "/bayesian-spatial-models-from-engine-sensor-measurements.html"
-  - image_path: dr.jpg
+  - image_path: ruchi.jpg
     alt: "Digital twins for built environments"
-    title: "Dimension reduction in blade aerodynamics"
-    excerpt: "Finding lower-dimensional representations of high-dimensional design spaces for the aerodynamic design and manufacturing of aeroengine blades."
+    title: "Digital twins for built environments"
+    excerpt: "Built environments of future cities will need to cope with climate change, and also more intricate energy demands. Avant-gardist systems that present synergies, typically via interactions and feedbacks (e.g. close adaptation of energy supply to peoples’ activities, heat recovery from infrastructure, greening of the city) are natural candidates. However, their evaluation, before implementation, can only be achieved by simulation models that accurately represent these complex, interdependent, time-dependent stochastic feedbacks. New types of measurements are necessary to develop and tune these models."
     url: "/dimension-reduction-in-blade-aerodynamics.html"
     btn_label: "Read more"
     btn_class: "btn--primary"
-  - image_path: polynomials.jpg
+  - image_path: oil.jpg
     title: "Digital twins for multiphase flow systems in the oil and gas and fast moving consumer goods industries"
     excerpt: "Leveraging polynomial approximations via least squares, compressive sensing and numerical integration rules for learning."
     btn_label: "Explore project"
     btn_class: "btn--primary"
     url: https://www.effective-quadratures.org
-  - image_path: dr.jpg
+  - image_path: aero.jpg
     alt: "Digital twins in aeronautics"
     title: "Digital twins in aeronautics"
     excerpt: "Finding lower-dimensional representations of high-dimensional design spaces for the aerodynamic design and manufacturing of aeroengine blades."
     url: "/dimension-reduction-in-blade-aerodynamics.html"
     btn_label: "Read more"
     btn_class: "btn--primary"
-  - image_path: dr.jpg
-    alt: "Digital twins in aeronautics"
+  - image_path: construction.jpg
+    alt: "Digital twins in infrastructure and construction"
     title: "Digital twins in infrastructure and construction"
     excerpt: "Finding lower-dimensional representations of high-dimensional design spaces for the aerodynamic design and manufacturing of aeroengine blades."
     url: "/dimension-reduction-in-blade-aerodynamics.html"
