@@ -6,8 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+logo: "cbg.jpg"
 locale                   : "en"
-title                    : "Professor"
+title                    : "Professor M. G."
 title_separator          : ": "
 name                     : "SPF"
 description              : "Description"
