@@ -67,7 +67,7 @@ Text goes here.
 
 {% include feature_row %}
 ## PIs
-# Mark Girolami.
+Text goes here. blah blah.
 <center>
   <figure class="one">
     <a href="/images/mark.jpg"><img src="/images/mark.jpg"></a>
@@ -75,6 +75,7 @@ Text goes here.
   </figure>
 </center>
 
+# Other investigators
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 {% include paginator.html %}
