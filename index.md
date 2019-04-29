@@ -27,6 +27,11 @@ gallery:
 ---
 Some text.
 
+<figure class="one">
+    <a href="unsplash-gallery-image-4-th.jpg"><img src="unsplash-gallery-image-4-th"></a>
+    <figcaption>Text goes here.</figcaption>
+</figure>
+
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 {% include paginator.html %}
