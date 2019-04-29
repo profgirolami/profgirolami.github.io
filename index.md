@@ -61,19 +61,17 @@ gallery:
     alt: "placeholder image 4"
     title: "Image 4 title caption"
 ---
-## Some text.
+# The projects
 {% include feature_row id="intro" type="center" %}
 Text goes here.
 
 {% include feature_row %}
-## PIs
+
+# PIs
 Text goes here. blah blah.
-<center>
-  <figure class="one">
-    <a href="/images/mark.jpg"><img src="/images/mark.jpg"></a>
-    <figcaption>The SPF is lead by Mark Girolami.</figcaption>
-  </figure>
-</center>
+![image-left](/images/mark.jpg){: .align-left}
+more text goes here.
+
 
 # Other investigators
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
