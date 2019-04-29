@@ -71,7 +71,7 @@ Text goes here.
 Text goes here. blah blah.
 ![image-left](/images/mark.jpg){: .align-left}
 more text goes here.
-
+{% include feature_row id="intro" type="center" %}
 
 # Other investigators
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
