@@ -26,11 +26,15 @@ gallery:
     title: "Image 4 title caption"
 ---
 Some text.
-
+<br>
+<iframe src="https://www.youtube.com/watch?v=V7SR--gjRSc" width="560" height="315" frameborder="0"> </iframe>
+<br>
+<center>
 <figure class="one">
-    <a href="unsplash-gallery-image-4-th.jpg"><img src="unsplash-gallery-image-4-th"></a>
-    <figcaption>Text goes here.</figcaption>
+    <a href="/images/unsplash-gallery-image-4-th.jpg"><img src="/images/unsplash-gallery-image-4-th.jpg"></a>
+    <figcaption>Caption describing these two images.</figcaption>
 </figure>
+</center>
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
