@@ -63,7 +63,7 @@ gallery:
 ---
 # The projects
 {% include feature_row id="intro" type="center" %}
-Text goes here.
+Artifical Intelligence for Science and Government (ASG)
 
 {% include feature_row %}
 
@@ -75,6 +75,7 @@ Mark is an elected fellow of the Royal Society of Edinburgh, he was an EPSRC Adv
 {% include feature_row id="intro" type="center" %}
 
 # Other investigators
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
-
-{% include paginator.html %}
+Ruchi Choudhary (Cambridge)
+Andrew Duncan (Imperial)
+Omar Matar (Imperial)
+Pranay Seshadri (Cambridge)
