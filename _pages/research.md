@@ -8,7 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: images/main.jpg
-excerpt: "An overview of my current research projects"
+excerpt: "My research lies at the intersection of statistics, machine learning and civil engineering."
 feature_row:
 
   - image_path: images/math.jpg
