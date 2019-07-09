@@ -1,2 +1,8 @@
 # main links links
 main:
+  - title: "Research"
+    url: https://eng-digital-twins.github.io
+  - title: "Talks"
+    url: https://eng-digital-twins.github.io/talks.html
+  - title: "Bio"
+    url: https://eng-digital-twins.github.io/bio.html
