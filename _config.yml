@@ -4,16 +4,17 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
+
 remote_theme                    : "mmistakes/minimal-mistakes@4.16.3"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 
 # Site Settings
-logo: "cbg.jpg"
 locale                   : "en"
-title                    : "Professor Mark Girolami"
+title                    : "Mark Girolami"
 title_separator          : ": "
-name                     : "SPF"
-description              : "Description"
+name                     : "Mark Girolami"
+description              : "The personal website of Mark Girolami."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -47,8 +48,6 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -80,11 +79,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pranay Seshadri"
-  avatar           : "image001.jpg"
-  bio              : "Aerospace Computational Research Scientist"
+  name             : "Mark Girolami"
+  avatar           : "docs/assets/images/mark.jpg"
+  bio              : "Professor"
   location         : "London, U. K."
-  email            : "ps583@cam.ac.uk"
+  email            : "mag92@cam.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "psesh"
+  github           : "mag92"
   google_plus      :
   keybase          :
   instagram        :
@@ -117,6 +116,7 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - vendor
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
@@ -143,6 +143,10 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# Liquid
+strict_front_matter: true
+liquid:
+  error_mode: strict
 
 # Conversion
 markdown: kramdown
@@ -177,13 +181,14 @@ paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins
-gems:
+# Plugins (previously gems:)
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -192,6 +197,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 
 # Archives
@@ -231,6 +237,19 @@ compress_html:
     envs: development
 
 
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+  pets:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+
 defaults:
   # _pages
   - scope:
@@ -239,5 +258,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-minimal_mistakes_skin: dark

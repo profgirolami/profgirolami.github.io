@@ -69,7 +69,7 @@ Artifical Intelligence for Science and Government (ASG)
 
 # PIs
 ![image-left](/images/mark.jpg){: .align-left} 
-Mark Girolami is the Sir Kirby Laing Professorship of Civil Engineering within the Department of Engineering at the University of Cambridge. In this role he provides academic leadership for CDBB across the University and more broadly throughout the national and international research communities. He was one of the original founding Executive Directors of the Alan Turing Institute (Turing), the UK’s national institute for Data Science and Artificial Intelligence, after which he was appointed as Strategic Director at Turing, where he established and continues to lead the Programme on Data Centric Engineering.
+Mark Girolami is the Sir Kirby Laing Professor of Civil Engineering within the Department of Engineering at the University of Cambridge. In this role he provides academic leadership for CDBB across the University and more broadly throughout the national and international research communities. He was one of the original founding Executive Directors of the Alan Turing Institute (Turing), the UK’s national institute for Data Science and Artificial Intelligence, after which he was appointed as Strategic Director at Turing, where he established and continues to lead the Programme on Data Centric Engineering.
 
 Mark is an elected fellow of the Royal Society of Edinburgh, he was an EPSRC Advanced Research Fellow (2007-2012), an EPSRC Established Career Research Fellow (2012-2018), and a recipient of a Royal Society Wolfson Research Merit Award.
 {% include feature_row id="intro" type="center" %}
