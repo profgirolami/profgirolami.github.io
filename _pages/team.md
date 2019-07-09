@@ -6,6 +6,6 @@ sitemap: true
 permalink: /team.html
 ---
 
-** PhD Students **
+**PhD Students**
 - Student 1
 - Student 2
