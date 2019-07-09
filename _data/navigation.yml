@@ -2,7 +2,9 @@
 main:
   - title: "Research"
     url: https://eng-digital-twins.github.io
-  - title: "Talks"
-    url: https://eng-digital-twins.github.io/talks.html
+  - title: "Team"
+    url: https://eng-digital-twins.github.io/team.html
   - title: "Bio"
     url: https://eng-digital-twins.github.io/bio.html
+  - title: "Talks"
+    url: https://eng-digital-twins.github.io/talks.html

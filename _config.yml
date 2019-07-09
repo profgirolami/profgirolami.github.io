@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Mark Girolami"
-  avatar           : "docs/assets/images/mark.jpg"
+  avatar           : "images/mark.jpg"
   bio              : "Professor"
   location         : "London, U. K."
   email            : "mag92@cam.ac.uk"
@@ -102,7 +102,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : https://twitter.com/markgirolami?lang=en
   vine             :
   weibo            :
   xing             :
