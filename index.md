@@ -75,7 +75,7 @@ Mark is an elected fellow of the Royal Society of Edinburgh, he was an EPSRC Adv
 {% include feature_row id="intro" type="center" %}
 
 # Other investigators
-Ruchi Choudhary (Cambridge)
-Andrew Duncan (Imperial)
-Omar Matar (Imperial)
-Pranay Seshadri (Cambridge)
+- Ruchi Choudhary (Cambridge)
+- Andrew Duncan (Imperial)
+- Omar Matar (Imperial)
+- Pranay Seshadri (Cambridge)
