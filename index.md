@@ -16,6 +16,6 @@ He delivered the [IMS Medallion Lecture](http://bulletin.imstat.org/2017/05/meda
 
 In 2020 Professor Girolami will deliver the [BCS](https://www.bcs.org) and [IET](https://www.theiet.org) [Turing Talk](https://www.bcs.org/events-home/turing-talk/) in London, Manchester, and Belfast.
 
-Professor Girolami currently serves as the Editor-in-Chief of [Statistics and Computing](https://link.springer.com/journal/11222)and the new open access journal [Data Centric Engineering](https://www.cambridge.org/core/journals/data-centric-engineering)published by [Cambridge University Press](https://www.cambridge.org).
+Professor Girolami currently serves as the Editor-in-Chief of [Statistics and Computing](https://link.springer.com/journal/11222) and the new open access journal [Data Centric Engineering](https://www.cambridge.org/core/journals/data-centric-engineering) published by [Cambridge University Press](https://www.cambridge.org).
 
 
