@@ -8,7 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: images/main.jpg
-excerpt: "My research lies at the intersection of statistics, machine learning and civil engineering."
+excerpt: "My research lies at the intersection of the statistical, mathematical, and computing sciences, where I have made contributions  to the development of Bayesian Statistics, Machine Learning and applications in the Engineering and Natural Sciences."
 feature_row:
 
   - image_path: images/math.jpg
