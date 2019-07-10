@@ -6,6 +6,6 @@ sitemap: true
 permalink: /team.html
 ---
 
-**PhD Students**
-- Student 1
+**Previous PhD Students**
+- [Leif Azzopardi](https://www.strath.ac.uk/staff/azzopardileifdr/) - Chancellor's Fellow, Computer and Information Sciences, University of Strathclyde
 - Student 2
