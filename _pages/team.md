@@ -12,4 +12,4 @@ permalink: /team.html
 - [Theodoros Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/) - Associate Professor, Department of Statistics, University of Warwick
 - [Ben Calderhead](https://www.imperial.ac.uk/people/b.calderhead) - Lecturer in Statistics, Department of Mathemaatics, Imperial College London
 - [Samuel Livingstone](https://www.ucl.ac.uk/statistics/department-information/staff/dr-samuel-livingstone) - Lecturer in Statistics, Department of Statistics, University College London
--[Francois-Xavier Briol](https://fxbriol.github.io) - Lecturer in Statistics, Department of Statistics, University College London
+- [Francois-Xavier Briol](https://fxbriol.github.io) - Lecturer in Statistics, Department of Statistics, University College London
