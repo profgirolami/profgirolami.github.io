@@ -13,3 +13,9 @@ permalink: /team.html
 - [Ben Calderhead](https://www.imperial.ac.uk/people/b.calderhead) - Lecturer in Statistics, Department of Mathematics, Imperial College London
 - [Samuel Livingstone](https://www.ucl.ac.uk/statistics/department-information/staff/dr-samuel-livingstone) - Lecturer in Statistics, Department of Statistics, University College London
 - [Francois-Xavier Briol](https://fxbriol.github.io) - Lecturer in Statistics, Department of Statistics, University College London
+
+**Previous Post-Doctoral Research Assistants**
+
+- [Simon Rogers](http://www.dcs.gla.ac.uk/~srogers/) - Senior Lecturer, School of Computing Science, University of Glasgow
+- [Maurizio Filippone](http://www.eurecom.fr/~filippon/) - AXA Chair of Computational Statistics, EURECOM
+
