@@ -16,6 +16,7 @@ permalink: /team.html
 - [Michael Epstein](https://www.linkedin.com/in/michael-epstein-0b2b134/) - Team Leader of Translational Statistics - Achilles Therapeutics Limited
 - [Tapesh Santra](https://www.linkedin.com/in/tapesh-santra-phd-02b009a9/?originalSubdomain=ie) - Advanced Data Analytics/ Consultant - Accenture
 - [Gary MacIndoe](https://www.linkedin.com/in/garymacindoe/?originalSubdomain=uk) - Principal Software Engineer - BBC
+- [Anne-Marie Lynne](https://science.curie.fr/members/anne-marie-lyne/) - Research Scientist - Centre de Recherche de l'Institut Curie
 
 **Previous Post-Doctoral Research Assistants**
 
