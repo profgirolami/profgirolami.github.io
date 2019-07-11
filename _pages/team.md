@@ -28,3 +28,4 @@ permalink: /team.html
 - [Tom Diethe](https://tomdiethe.com) - Applied Science Manager - Amazon Research
 - [Matt Higgs](https://www.thedatalab.com/podcasts/matt-higgs-data-scientist-at-the-data-lab/) - Data Scientist - [The Data Lab](https://www.thedatalab.com)
 - [Grigoris Skolidis](https://www.linkedin.com/in/grigoris-skolidis-9040b855/?originalSubdomain=uk) - Director of Data Science Services - Morphed Solutions
+- [Vassilis Stathopoulos](https://www.linkedin.com/in/vassilis-stathopoulos-92a68115/?originalSubdomain=uk) - Senior Software & Machine Learning Engineer - yodiwo
