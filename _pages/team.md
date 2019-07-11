@@ -27,3 +27,4 @@ permalink: /team.html
 - [Julien Cornebese](http://www.cornebise.com/julien/) - Head of Research, [Element AI](https://www.elementai.com)
 - [Tom Diethe](https://tomdiethe.com) - Applied Science Manager - Amazon Research
 - [Matt Higgs](https://www.thedatalab.com/podcasts/matt-higgs-data-scientist-at-the-data-lab/) - Data Scientist - [The Data Lab](https://www.thedatalab.com)
+- [Grigoris Skolidis](https://www.linkedin.com/in/grigoris-skolidis-9040b855/?originalSubdomain=uk) - Director of Data Science Services - Morphed Solutions
