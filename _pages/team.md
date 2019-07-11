@@ -19,7 +19,7 @@ permalink: /team.html
 - [Gary MacIndoe](https://www.linkedin.com/in/garymacindoe/?originalSubdomain=uk) - Principal Software Engineer - BBC
 - [Anne-Marie Lynne](https://science.curie.fr/members/anne-marie-lyne/) - Research Scientist - Centre de Recherche de l'Institut Curie
 - [Jon Cockayne](http://www.joncockayne.com) - Postdoctoral Research Assistant - [Alan Turing Institute](https://www.turing.ac.uk)(https://www.turing.ac.uk)
--[Alessandro Barp](http://www.imperial.ac.uk/people/a.barp16) - Postdoctoral Research Assistant - University of Cambridge
+- [Alessandro Barp](http://www.imperial.ac.uk/people/a.barp16) - Postdoctoral Research Assistant - University of Cambridge
 
 **Previous Post-Doctoral Research Assistants**
 
