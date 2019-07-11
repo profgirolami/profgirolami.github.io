@@ -22,4 +22,8 @@ permalink: /team.html
 
 - [Simon Rogers](http://www.dcs.gla.ac.uk/~srogers/) - Senior Lecturer, School of Computing Science, University of Glasgow
 - [Maurizio Filippone](http://www.eurecom.fr/~filippon/) - AXA Chair of Computational Statistics, EURECOM
-
+- [Michael Betancourt](https://betanalpha.github.io) - Applied Statistician Consultant
+- [Simon Byrne](https://www.linkedin.com/in/simonpjbyrne/) - Lead Software Developer - Caltech CliMA
+- [Julien Cornebese](http://www.cornebise.com/julien/) - Head of Research, [Element AI](https://www.elementai.com)
+- [Tom Diethe](https://tomdiethe.com) - Applied Science Manager - Amazon Research
+- [Matt Higgs](https://www.thedatalab.com/podcasts/matt-higgs-data-scientist-at-the-data-lab/) - Data Scientist - [The Data Lab](https://www.thedatalab.com)
