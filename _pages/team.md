@@ -24,6 +24,7 @@ permalink: /team.html
 **Previous Post-Doctoral Research Assistants**
 
 - [Simon Rogers](http://www.dcs.gla.ac.uk/~srogers/) - Senior Lecturer, School of Computing Science, University of Glasgow
+- [Vlad Vyshemirsky](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vladislavvyshemirsky/) - Lecturer in Statistics, School of Mathematics and Statistics - University of Glasgow
 - [Maurizio Filippone](http://www.eurecom.fr/~filippon/) - AXA Chair of Computational Statistics, EURECOM
 - [Michael Betancourt](https://betanalpha.github.io) - Applied Statistician Consultant
 - [Simon Byrne](https://www.linkedin.com/in/simonpjbyrne/) - Lead Software Developer - Caltech CliMA
