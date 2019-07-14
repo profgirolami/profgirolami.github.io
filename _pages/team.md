@@ -27,9 +27,6 @@ permalink: /team.html
 - [Vlad Vyshemirsky](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vladislavvyshemirsky/) - Lecturer in Statistics, School of Mathematics and Statistics - University of Glasgow
 - [Maurizio Filippone](http://www.eurecom.fr/~filippon/) - AXA Chair of Computational Statistics, EURECOM
 - [Theodor Papamarkou](https://www.linkedin.com/in/papamarkou/) - Research Scientist - [Oak Ridge National Laboratory](https://www.ornl.gov)
-
-Message
-
 - [Michael Betancourt](https://betanalpha.github.io) - Applied Statistician Consultant
 - [Simon Byrne](https://www.linkedin.com/in/simonpjbyrne/) - Lead Software Developer - Caltech CliMA
 - [Julien Cornebese](http://www.cornebise.com/julien/) - Head of Research, [Element AI](https://www.elementai.com)
