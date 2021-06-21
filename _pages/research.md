@@ -44,7 +44,7 @@ feature_row:
 ---
 # The projects
 {% include feature_row id="intro" type="center" %}
-Artifical Intelligence for Science and Government (ASG) is a large, multi-disciplinary project that is being led by The Alan Turing Institute, sponsored by UKRI. I am the lead prinicpal investigator for the digital twins in engineering stream. Specific sub-projects under this theme are enumerated below. 
+Artifical Intelligence for Science and Government (ASG) is a large, multi-disciplinary project that is being led by The Alan Turing Institute, sponsored by UKRI. I am the lead principal investigator for the digital twins in engineering stream. Specific sub-projects under this theme are enumerated below. 
 
 {% include feature_row %}
 
